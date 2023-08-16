@@ -1,0 +1,17 @@
+.field {
+   margin: auto;
+
+   max-width: 400px;
+   min-width: 200px;
+   min-height: 500px;
+   padding: 5px;
+   padding-top: 10px;
+   background: #395055;
+
+   display: flex;
+   flex-wrap: wrap;
+   align-content: start;
+   gap: 5px;
+
+   justify-content: space-between;
+}

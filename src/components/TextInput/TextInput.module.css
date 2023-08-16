@@ -1,0 +1,21 @@
+.inputArea {
+   flex-shrink: 0;
+   width: calc(50% - 10px);
+   display: grid;
+   grid-auto-rows: max-content;
+   gap: 5px;
+}
+.description {
+   color: white;
+   font-family: Inter;
+   font-size: 12px;
+}
+.input {
+   width: 100%;
+   height: 20px;
+   color: black;
+   font-family: Inter;
+   font-size: 12px;
+   outline: none;
+   padding: 2px;
+}
